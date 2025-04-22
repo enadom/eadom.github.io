@@ -1,8 +1,7 @@
-# eadom.github.io
 
 # Enoch Adom
 
-Welcome to my personal GitHub.io site. I am a Postdoctoral Researcher in Agricultural and Resource Economics, with research interests in climate change adaptation, environmental economics, and sustainable agricultural systems.
+I am a Postdoctoral Researcher in Agricultural Economics, with research interests in production economics, crop modeling, climate change adaptation, environmental economics, and sustainable agricultural systems.
 
 ---
 
@@ -42,8 +41,8 @@ I am currently a Postdoctoral Scholar at the University of Nevada, Reno, working
 
 ## Published Articles
 
-### Title 1: *[Insert Full Title Here]*
-- [Link to Article](#)
+### A Financial Comparison of Small-Scale Quail and Laying Hen Farm Enterprises
+- [Poultry Science, 2023](https://doi.org/10.1016/j.psj.2023.102507)
 
 ### Title 2: *[Insert Full Title Here]*
 - [Link to Article](#)
@@ -51,9 +50,9 @@ I am currently a Postdoctoral Scholar at the University of Nevada, Reno, working
 ---
 
 ## Education
-- Ph.D. in Agricultural Economics, Oklahoma State University, 2025
-- M.S. in Sociology (Criminal Justice focus), North Dakota State University
-- B.A. in Sociology, University of Cape Coast, Ghana
+- **Ph.D. in Agricultural Economics**, Oklahoma State University, Stillwater, OK — *Expected December 2024*
+- **M.S. in Agribusiness and Applied Economics**, North Dakota State University, Fargo, ND — *July 2021*
+- **B.Sc. in Agribusiness Management**, Kwame Nkrumah University of Science & Technology, Kumasi, Ghana — *May 2015*
 
 ---
 
@@ -62,10 +61,11 @@ I am currently a Postdoctoral Scholar at the University of Nevada, Reno, working
   *NSF Project on Place-Based Climate Adaptation*
 
 - **Graduate Research Assistant**, Oklahoma State University (2019–2024)  
-  *Economic modeling of nitrogen management and forage systems*
-
-- **Graduate Teaching Assistant**, Oklahoma State University (2022–2023)  
-  *Taught Excel-based quantitative analysis and ANOVA methods*
+ - Led economic modeling efforts for nitrogen management under the RAIN project
+- Integrated crop simulation models (DSSAT) with econometric analysis
+- Collaborated on cost-benefit analyses of beef production systems and cropping practices
+- Presented at SAEA conferences and stakeholder meetings  
+- Taught Excel-based quantitative analysis and ANOVA methods*
 
 ---
 
