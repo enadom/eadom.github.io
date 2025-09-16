@@ -15,14 +15,15 @@ I am currently a Postdoctoral Scholar at the University of Nevada, Reno, working
 ### Droughts, Perception, and Adaptation Project
 - **Description**: This project investigates how the divergence between farmers' perceptions of drought and actual climate data influences adaptation decisions. We use a framework based on the difference between perceived and instrumented drought measures (PΔI).
 - **Links**:
-  - [Project Overview](#)
-  - [Related Publications](#)
+  - [Project Overview](https://wherewelive.org/nevada/)
+  
 
-### Drought and Electricity Generation Mix
-- **Description**: This project explores the impact of drought conditions, measured by the Palmer Drought Severity Index (PDSI), on electricity generation by fuel source across U.S. watersheds. The study evaluates how renewable energy shares interact with drought to affect grid reliability.
+### The Energy-Water Nexus Under Stress: Drought Impacts on Electricity Generation
+- **Description**: This project explores the impact of drought conditions, measured by the Palmer Drought Severity Index (PDSI), on electricity generation by fuel source across U.S. watersheds. Electricity generation in the U.S. relies heavily on water-intensive thermal and hydroelectric plants, making it vulnerable to increasing drought severity underclimate change. Building on Eyer and Wichman (2018), we examine how droughts reshape the electricity generation mix.
+
 - **Links**:
-  - [Working Paper](#)
-  - [Data and Code Repository](#)
+  - [Working Paper](https://scholar.google.com/scholar?oi=bibs&cluster=12250400581932487213&btnI=1&hl=en)
+  
 
 ---
 
@@ -44,8 +45,8 @@ I am currently a Postdoctoral Scholar at the University of Nevada, Reno, working
 ### A Financial Comparison of Small-Scale Quail and Laying Hen Farm Enterprises
 - [Poultry Science, 2023](https://doi.org/10.1016/j.psj.2023.102507)
 
-### Title 2: *[Insert Full Title Here]*
-- [Link to Article](#)
+### Title 2: *[Economic comparison of stocker cattle performance on winter wheat vs. summer-dormant tall fescue with nitrogen or interseeded alfalfa in the southern great plains]*
+- [Translational Animal Science, 2024](https://academic.oup.com/tas/article/doi/10.1093/tas/txae154/7877354)
 
 ---
 
